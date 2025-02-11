@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # image-finder
 # image-finder
 # image-finder
+# image-finder
